@@ -3,8 +3,8 @@
 
     <string name="app_name">crf</string>
     <string name="action_settings">Settings</string>
-    <string name="title_section1">Doctor Name</string>
-    <string name="title_section2">Patient Name</string>
+    <string name="title_section1">POSEIDON</string>
+    <string name="title_section2">Qualification / Practice</string>
     <string name="title_section3">General / Unspecified</string>
     <string name="title_section4">Respiratory</string>
     <string name="title_section5">Digestive</string>
