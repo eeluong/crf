@@ -125,6 +125,54 @@ public class MainActivity extends FragmentActivity implements
 			case 1:
 				fragment = new PracticeFragment();
 				return fragment;
+			case 2:
+				fragment = new GeneralFragment();
+				return fragment;	
+			case 3:
+				fragment = new RespiratoryFragment();
+				return fragment;
+			case 4:
+				fragment = new DigestiveFragment();
+				return fragment;
+			case 5:
+				fragment = new CirculatoryFragment();
+				return fragment;	
+			case 6:
+				fragment = new SkinFragment();
+				return fragment;	
+			case 7:
+				fragment = new EarFragment();
+				return fragment;	
+			case 8:
+				fragment = new EyeFragment();
+				return fragment;
+			case 9:
+				fragment = new EndocrineFragment();
+				return fragment;	
+			case 10:
+				fragment = new NeurologicalFragment();
+				return fragment;	
+			case 11:
+				fragment = new MusculoskeletalFragment();
+				return fragment;	
+			case 12:
+				fragment = new PregnancyFragment();
+				return fragment;
+			case 13:
+				fragment = new FemaleFragment();
+				return fragment;
+			case 14:
+				fragment = new MaleFragment();
+				return fragment;	
+			case 15:
+				fragment = new UrologicalFragment();
+				return fragment;	
+			case 16:
+				fragment = new BloodFragment();
+				return fragment;
+			case 17:
+				fragment = new OthersFragment();
+				return fragment;				
 			}
 			return fragment;
 
@@ -133,7 +181,7 @@ public class MainActivity extends FragmentActivity implements
 		@Override
 		public int getCount() {
 			// Show 18 total pages.
-			return 2;
+			return 18;
 		}
 
 		@Override
