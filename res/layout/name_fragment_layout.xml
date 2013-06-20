@@ -31,15 +31,28 @@
          <requestFocus />
     </EditText>    
  
+     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/patient_list"
+    />
+     
+    <Spinner android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawSelectorOnTop="true"
+        android:prompt="@string/patient_list_prompt"
+    />
+    
      <EditText
          android:id="@+id/editText4"
          android:layout_width="wrap_content"
          android:layout_height="wrap_content"
          android:ems="10"
-         android:text="Patient Number: " >
+         android:text="Patient number: " >
          <requestFocus />
-    </EditText>
-
+     </EditText>    
+    
      <EditText
          android:id="@+id/editText5"
          android:layout_width="wrap_content"
@@ -60,5 +73,6 @@
          android:layout_width="wrap_content"
          android:layout_height="wrap_content"
          android:text="Gender (Female)" />
+    
      
 </LinearLayout>

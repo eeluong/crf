@@ -8,7 +8,7 @@
          android:id="@+id/checkBox1"
          android:layout_width="wrap_content"
          android:layout_height="wrap_content"
-         android:text="Dysuria/Burning mict# " />
+         android:text="Dysuria/Burning micturition " />
 
      <CheckBox
          android:id="@+id/checkBox2"

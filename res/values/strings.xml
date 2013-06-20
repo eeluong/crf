@@ -21,5 +21,8 @@
     <string name="title_section16">Urological</string>
     <string name="title_section17">Blood, Blood forming organs, Immune mechanism</string>
     <string name="title_section18">Misc</string>
+    <string name="patient_list">PATIENT List:</string>
+    <string name="patient_list_prompt">Choose an patient</string>
+
     
 </resources>
