@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/female_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/female_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/blood_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/blood_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/urological_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/urological_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/respiratory_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/respiratory_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/practice_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/practice_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/male_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/male_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/musculoskeletal_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/musculoskeletal_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/digestive_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/digestive_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/neurological_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/neurological_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/circulatory_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/circulatory_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/pregnancy_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/pregnancy_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/others_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/others_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/name_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/name_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/endocrine_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/endocrine_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/skin_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/skin_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/eye_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/eye_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/ear_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/ear_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/data/Development/crf1/app/build/intermediates/res/merged/debug/layout/general_fragment_layout.xml",
+        "source": "/home/data/Development/crf1/app/src/main/res/layout/general_fragment_layout.xml"
+    }
+]

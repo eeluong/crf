@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">crf</string>
+    <string name="patient_list">PATIENT List:</string>
+    <string name="patient_list_prompt">Choose an patient</string>
+    <string name="title_section1">POSEIDON</string>
+    <string name="title_section10">Endocrine</string>
+    <string name="title_section11">Neurological</string>
+    <string name="title_section12">Musculoskeletal</string>
+    <string name="title_section13">Pregnancy, Child bearing, Family planning</string>
+    <string name="title_section14">Female Genital</string>
+    <string name="title_section15">Male Genital</string>
+    <string name="title_section16">Urological</string>
+    <string name="title_section17">Blood, Blood forming organs, Immune mechanism</string>
+    <string name="title_section18">Misc</string>
+    <string name="title_section2">Qualification / Practice</string>
+    <string name="title_section3">General / Unspecified</string>
+    <string name="title_section4">Respiratory</string>
+    <string name="title_section5">Digestive</string>
+    <string name="title_section6">Circulatory</string>
+    <string name="title_section7">Skin</string>
+    <string name="title_section8">Ear</string>
+    <string name="title_section9">Eye</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
